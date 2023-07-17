@@ -57,7 +57,7 @@ int fibonacciIterative(int n) {
 }
 
 int main() {
-    int n = 10;
+    int n = 7;
 
     printf("Fibonacci using recursive = %d: %d\n", n, fibonacciRecursive(n));
 
